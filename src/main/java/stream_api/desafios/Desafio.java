@@ -4,7 +4,7 @@ import java.util.Arrays;
 import java.util.List;
 
 /*
-* Classe base para todos os desafios
+    Classe base para todos os desafios
 */
 public class Desafio {
     public static void main(String[] args) {
